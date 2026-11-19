@@ -172,7 +172,7 @@ Additional project files and visualizations will be added to this repository as 
 
 Saba Gebremichael
 
-Junior Data Analyst | Power BI | SQL | Business Intelligence
+Data Analyst | Power BI | SQL | Business Intelligence
 
 📧 seiona1212@gmail.com
 
