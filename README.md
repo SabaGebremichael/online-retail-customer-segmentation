@@ -129,7 +129,11 @@ The transaction data was cleaned and prepared for analysis by addressing missing
 - Customer Value and Purchase Frequency Analysis
 
 - Product Category Analysis
-
+  
+## 📊 Power BI Dashboard
+ The interactive Power BI dashboard provides an executive-level view of customer behavior, revenue trends, customer value, purchase frequency, customer segments,  and geographic revenue distribution.
+ ![Power BI Customer Segmentation Dashboard](power-bi-dashboard.png)
+ 
 ## 📈 Key Analysis Areas
 
 - Customer Value
