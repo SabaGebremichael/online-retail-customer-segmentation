@@ -169,7 +169,11 @@ The transaction data was cleaned and prepared for analysis by addressing missing
 - Support data-driven business decisions
 
 ## 📁 Project Files
+## 📥 Power BI Project File
 
+You can download the Power BI Desktop project file here:
+
+[Download the Power BI Dashboard (.pbix)](Customer%20Segment%20Dashboard%20Revised.pbix) 
 Additional project files and visualizations will be added to this repository as the portfolio is developed.
 
 ## 👩‍💻 Author
